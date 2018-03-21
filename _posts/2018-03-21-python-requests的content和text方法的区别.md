@@ -1,3 +1,24 @@
+---
+layout:     post
+title:      python requests的content和text方法的区别
+subtitle:   python requests的content和text方法的区别
+date:       2018-32-21
+author:     xwm
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - Python
+---
+
+
+
+
+
+
+
+
+
+
  - **问题：**
 
 > 一直在想requests的content和text属性的区别，从print 结果来看是没有任何区别的
