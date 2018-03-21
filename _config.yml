@@ -1,11 +1,11 @@
 # Site settings
-title: xwmBlog
-SEOTitle: xwmBlog的博客 | xwmBlog
-header-img: img/post-bg-desk.jpg
+title: xwmBlog   #你博客的标题
+SEOTitle: xwmBlog的博客  #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-debug.jpg   #显示在首页的背景图片
 email: xiewm.0723@gmail.com
-description: "To  Be  A  Better  Man."
-keyword: "Python, Django, Celery, Tester, xwmBlog"
-url: "http://xie0723.github.io"          # your host, for absolute URL
+description: "To  Be  A  Better  Man."   #网站介绍
+keyword: "Python, xwm Blog, Django, Tester, Celery"
+url: "http://xie0723.github.io"          # 博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xie0723/xie0723.github.io.git" # you code repository
 
@@ -21,7 +21,6 @@ RSS: false
 # weibo_username:     xie0723
 zhihu_username:     Op_X
 github_username:    xie0723
-#twitter_username:   xie0723
 
 
 
@@ -72,11 +71,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: xie0723.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-116169942-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -95,18 +94,18 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+#friends: [
+#    {
+#        title: "WY",
+#        href: "http://zhengwuyang.com"
+#    },{
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },{
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },{
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
+#]
