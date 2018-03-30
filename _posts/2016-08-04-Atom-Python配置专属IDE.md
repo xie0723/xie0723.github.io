@@ -1,3 +1,25 @@
+---
+layout:     post
+title:      Python找出序列中出现次数最多的元素方法
+subtitle:   找出序列中出现次数最多的元素方法
+date:       2016-06-16
+author:     xwm
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - Python
+    - 基础
+---
+
+
+
+
+
+
+
+
+
+
 > 选择一个合适的IDE，对于强迫症的人来说，比较重要。最开始用的是Eclipse, 之后是用Pycharm，最近发现了Atom ，推荐。
 >环境： W7 ，64位  
 
